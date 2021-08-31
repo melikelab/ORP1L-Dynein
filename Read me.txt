@@ -1,0 +1,7 @@
+The program 'callVoronoiMultiSeg' is for Voronoi tesselation and cluster finding
+The program 'PostVA_mod' is for post analysis of all the data files obtained after Voronoi tesselation and 
+cluster analysis. 
+The program 'HybridKLTest' is meant providing the 'reduced areas' and statistical K L Divergence test.
+
+The folder 'VorDivergence' contain all the relevant functions to run the HybridKLTest. The Select1DataGroup and
+ Insight3 programs are required to run callVoronoiMultiSeg.
